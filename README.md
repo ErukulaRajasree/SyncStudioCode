@@ -46,21 +46,21 @@ https://github.com/user-attachments/assets/cb24c926-d50d-4437-ace4-f874a6f6ec13
 
 **Clone the Repository:**
 
->git clone https://github.com/ErukulaRajasree/SyncStudioCode.git
+git clone https://github.com/ErukulaRajasree/SyncStudioCode.git
 
->cd SyncStudioCode
+cd SyncStudioCode
 
 **Install Dependencies**
 
->cd client
->npm install
+cd client
+npm install
 
->cd server
->npm install
+cd server
+npm install
 
 **Start the development server**
 
->npm start
+npm start
 
 
 
