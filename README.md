@@ -1,15 +1,15 @@
-#SyncStudio - Collaborative Code Rooms
+# SyncStudio - Collaborative Code Rooms
 
 SyncStudio provides virtual rooms for real-time code collaboration. Multiple users can work on code together in the same virtual room. This project is built using Socket.IO for real-time communication.
 
 
-##Live Demo:
+## Live Demo:
 
 
 https://github.com/user-attachments/assets/cb24c926-d50d-4437-ace4-f874a6f6ec13
 
 
-##Features:
+## Features:
 
 **Create or Join Rooms:** Create a new virtual room or join an existing one by entering a room ID.
 
@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/cb24c926-d50d-4437-ace4-f874a6f6ec13
 **Code Highlighting:** Provides code highlighting and editor customization options for an enhanced coding experience.
 
 
-##Technologies Used:
+## Technologies Used:
 
 **Express.js:** For handling API requests.
 
@@ -35,7 +35,7 @@ https://github.com/user-attachments/assets/cb24c926-d50d-4437-ace4-f874a6f6ec13
 **CodeMirror:** For providing the code editor.
 
 
-##Usage:
+## Usage:
 
 **Enter or Generate Room ID:** Enter a Room ID or generate a new one.
 
@@ -44,7 +44,7 @@ https://github.com/user-attachments/assets/cb24c926-d50d-4437-ace4-f874a6f6ec13
 **Start Collaborating:** Begin real-time code collaboration with others in the same room.
 
 
-##Installation:
+## Installation:
 
 **Clone the Repository:**
 
