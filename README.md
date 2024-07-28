@@ -1,6 +1,6 @@
 **SyncStudio - Collaborative Code Rooms**
 
-SyncStudio provides virtual rooms for real-time code collaboration. Multiple users can work on code together in the same virtual room. This project is built using the MERN (MongoDB, Express.js, React, Node.js) stack and Socket.IO for real-time communication.
+SyncStudio provides virtual rooms for real-time code collaboration. Multiple users can work on code together in the same virtual room. This project is built using Socket.IO for real-time communication.
 
 
 **Live Demo:**
