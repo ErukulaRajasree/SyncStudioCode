@@ -2,6 +2,10 @@
 
 SyncStudio provides virtual rooms for real-time code collaboration. Multiple users can work on code together in the same virtual room. This project is built using Socket.IO for real-time communication.
 
+## Live Website Link:
+
+https://syncstudiocode-ycc6.onrender.com/
+
 
 ## Live Demo:
 
